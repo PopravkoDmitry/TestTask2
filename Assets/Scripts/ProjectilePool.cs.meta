@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 369acf05f30125749a66fcee230defcd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _simpleProjectilePrefab: {fileID: 7115947261347778680, guid: 4be6562b5b43bb647a3593c0c6c68238, type: 3}
+  - _grenadeProjectilePrefab: {fileID: 3956707005051005283, guid: 1d732012689ac254ca2dd2184c33cff0, type: 3}
+  - _tennisBallProjectilePrefab: {fileID: 7394893976760074966, guid: 2311a7781b67caa41bb66f792d4dd92f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
